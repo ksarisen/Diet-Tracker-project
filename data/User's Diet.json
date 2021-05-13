@@ -1,0 +1,19 @@
+{
+    "User Info": [{
+        "Activity level": "Extremely Active",
+        "Height": 184,
+        "Gender": "Male",
+        "Age": 24,
+        "Weight": 84,
+        "Name": "Kerem"
+    }],
+    "Total calories": 40,
+    "The Diet Context": [{
+        "Proteins": 6,
+        "Carbohydrates": 0,
+        "Fats": 3,
+        "Calories": 40,
+        "Name": "Egg"
+    }],
+    "Name": "User's Diet"
+}

@@ -1,0 +1,28 @@
+{
+    "User Info": [{
+        "Activity level": "Very Active",
+        "Height": 184,
+        "Gender": "Male",
+        "Age": 24,
+        "Weight": 79.9,
+        "Name": "Kerem"
+    }],
+    "Total calories": 150,
+    "The Diet Context": [
+        {
+            "Proteins": 10,
+            "Carbohydrates": 0.5,
+            "Fats": 30,
+            "Calories": 200,
+            "Name": "Cheese"
+        },
+        {
+            "Proteins": 16.6,
+            "Carbohydrates": 11,
+            "Fats": 20,
+            "Calories": 100,
+            "Name": "Meatball"
+        }
+    ],
+    "Name": "My diet"
+}
