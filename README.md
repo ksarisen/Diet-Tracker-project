@@ -14,7 +14,7 @@ Lets you add your food and lets you enter it's name, calories and nutrition fact
 
 ## Who will use it?
 
-People who wants track their calories and macros and wants to know how many calories they need to reach their goal and
+People who want to track their calories and macros and wants to know how many calories they need to reach their goal and
 reach their goals more efficiently with more scientific approach.
 
 ## Why is this project of interest to me?
